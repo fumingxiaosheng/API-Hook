@@ -1,0 +1,40 @@
+﻿  dllmain.cpp
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(63,12): warning C4101: “hProcess”: 未引用的局部变量
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(65,11): warning C4101: “dwPriorityClass”: 未引用的局部变量
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(128,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(145,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(169,31): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“LPSECURITY_ATTRIBUTES”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(169,31): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 7 拥有了类型“HANDLE”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(169,31): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 8 拥有了类型“HANDLE”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(235,31): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(235,31): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“LPCVOID”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(235,31): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“LPDWORD”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(235,31): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“LPOVERLAPPED”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(257,31): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(257,31): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“LPVOID”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(257,31): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“LPDWORD”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(257,31): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“LPOVERLAPPED”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(267,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(282,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“HANDLE”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(292,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(292,27): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(292,27): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(292,27): message : 缺失的可变参数 2 为格式字符串“%d”所需
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(373,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(373,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“PHKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(373,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 6 拥有了类型“HKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(382,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(416,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(416,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“LPWSTR”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(416,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 7 拥有了类型“const LPSECURITY_ATTRIBUTES”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(416,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 8 拥有了类型“PHKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(416,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 9 拥有了类型“LPDWORD”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(416,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 10 拥有了类型“HKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(445,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(463,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(493,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“const sockaddr *”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(507,27): warning C4477: “sprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“const sockaddr *”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(555,24): warning C4477: “sprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“void *”
+C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\DETOURS_sample\dllmain.cpp(555,24): warning C4477: “sprintf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“const void *”
+    正在创建库 C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\Debug\DETOURS_sample.lib 和对象 C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\Debug\DETOURS_sample.exp
+  DETOURS_sample.vcxproj -> C:\Users\芙茗\Desktop\软件安全课设\DETOURS_sample\Debug\DETOURS_sample.dll

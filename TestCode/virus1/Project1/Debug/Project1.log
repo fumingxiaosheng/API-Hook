@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\芙茗\Desktop\软件安全课设\TestCode\virus1\Project1\源.cpp(59,21): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  LINK : 没有找到 C:\Users\芙茗\Desktop\软件安全课设\TestCode\virus1\Debug\Project1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Project1.vcxproj -> C:\Users\芙茗\Desktop\软件安全课设\TestCode\virus1\Debug\Project1.exe
